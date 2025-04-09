@@ -36,8 +36,6 @@ The report consists of 3 following pages:
 2. Customers Analysis
 3. Trend Analysis
 
-The report is available for interaction at the link provided
-
 ---
 
 ## 🏆 Results/Insights
