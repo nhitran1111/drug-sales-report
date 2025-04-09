@@ -1,34 +1,36 @@
 # Portfolio Case Study: Drug Sales Performance Analysis
 
 ---
-## ✨ Introduction:
+## ✨ Introduction
 This case study takes a deep dive into drug sales data from 2022 to 2023, focusing on customer segmentation, revenue trends, and product performance. A dashboard was developed to break down sales by demographics, countries, buyer types, and time periods—highlighting key patterns and insights to support strategic business decisions.
 
 ---
-## 📃 Problem Statement
+## 🔒 Problem Statements
 1. Which drug products generate the most revenue, and how do customer types and demographics influence product performance?
 2. Which customer segments are driving the most revenue, and how can we better understand our buyer profiles to improve targeting and sales strategy?
 3. What are the key revenue trends over time, and how do seasonal or quarterly patterns affect overall drug sales performance?
+---
 
-## Data Source
+## 📚 Data Sources
 There are 3 datasets provided in CSV format, described as below:
 - `fact_sales.csv` is a fact table that records individual drug sales transactions, which used for tracking and analyzing sales performance over time, across products, regions, and customer types
 - `dim_drug.csv` is a dimension table containing detailed information about each drug in the dataset
 - `dim_customers` is a dimension table containing demographic and identification information of customers
+---
 
-## Skills demonstrated
+## ⚙️ Skills demonstrated
 The following Power BI features were incorporated:
 1. Bookmarking,
-2. Measures, new tables
+2. Measures, tables
 3. Page navigation
 4. Filters
 5. Tooltips
 6. Button
 7. DAX 
-8. Modelling
-The project follows the star schema model, which has 2 dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
+8. Modelling: The project follows the star schema model, which has 2 dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
+---
 
-## Visualization
+## 🖼️ Visualization
 The report consists of 3 following pages:
 1. Top/Bottom Analysis
 2. Customers Analysis
@@ -36,15 +38,16 @@ The report consists of 3 following pages:
 
 The report is available for interaction at the link provided
 
-## Results/Insight
+---
+
+## 🏆 Results/Insights
 ### 1. Top/Bottom Analysis
 
 ![Overview](Images/Overview.png)
 
-
 - The profit margin stands at 81.92%, indicating outstanding profitability and strong financial performance.
 
-- Together, the top 5 drugs account for 2,432 out of 15,437 total transactions, representing approximately 15.8% of all sales activity. Even though top 5 drugs have the highest transaction counts, their limited share of overall sales reflects a broad and balanced product portfolio
+- The top 5 drugs account for 2,432 out of 15,437 total transactions, representing approximately 15.8% of all sales activity. Even though top 5 drugs have the highest transaction counts, their limited share of overall sales reflects a broad and balanced product portfolio
 
 - These five customers account for 3,693 out of 15,437 transactions, representing approximately 23.9% of total sales. Nearly 1 in 4 transactions come from just 5 customers, which suggests a strong dependency on a small portion of the customer base.
 
@@ -73,10 +76,10 @@ The report is available for interaction at the link provided
 - Monthly revenue trends show the highest growth in August (+22%), February (+21%), and April (+13%), while the sharpest declines occurred in January (-24%) and July (-19%). These patterns suggest that strong rebounds often follow slow months, likely driven by seasonal purchasing habits or budget resets.
 
 - Sales activity remains consistently high during weekdays, particularly for Clonazepam, Doxycycline, Ergocalciferol, Ezetimibe, and Lisinopril. This trend suggests a clinical or institutional purchasing pattern, with stronger sales from Monday to Friday, indicating that these drugs are essential components in standard treatment protocols.
+---
 
-
-## Business Recommendations
-1. Geographic Diversification
+## 📌 Business Recommendations
+1. Expand Market Reach
 - Launch tailored campaigns using competitive pricing, local partnerships, and alignment with regional regulations.
 - Conduct market entry and penetration studies in key regions like the US and Europe.
 2. Personalized Marketing Strategies
@@ -98,5 +101,5 @@ The report is available for interaction at the link provided
 - Audit low-performing drugs to eliminate products with low demand and poor margins.
 - Increase marketing investment for top-selling drugs to maximize sales volume.
 
-## Tools & Technologies
-Power BI
+## ⚒️ Tools & Technologies
+### Power BI
