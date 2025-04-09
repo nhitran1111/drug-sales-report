@@ -79,24 +79,29 @@ The report is available for interaction at the link provided
 ---
 
 ## 📌 Business Recommendations
-1. Expand Market Reach
+**1. Expand Market Reach**
 - Launch tailored campaigns using competitive pricing, local partnerships, and alignment with regional regulations.
 - Conduct market entry and penetration studies in key regions like the US and Europe.
-2. Personalized Marketing Strategies
+
+**2. Personalized Marketing Strategies**
 - Design marketing campaigns by gender personas, focusing on personalized healthcare solutions.
 - 50+ Segment: Offer chronic care programs, subscription models, and medication adherence packages.
 - 21–40 Segment: Promote preventive care, mental wellness, and fitness-related supplements.
-3. Strengthen Direct-to-Consumer (D2C) Channels
+
+**3. Strengthen Direct-to-Consumer (D2C) Channels**
 - Launch a VIP or tiered loyalty program to encourage repeat purchases and customer loyalty.
 - Expand retail networks and online consumer platforms.
 - Acquire and nurture mid-sized customers to reduce reliance on a few major accounts and improve revenue stability.
-4. Align with Seasonal Trends
+
+**4. Align with Seasonal Trends**
 - Plan major marketing and sales efforts around February, April, and August (high-growth months).
 - Investigate and address revenue dips in January and July with bundled offers or incentives.
-5.Optimize B2B Engagement
+
+**5.Optimize B2B Engagement**
 - Offer weekday discounts or bulk purchase packages for institutional buyers.
 - Assign dedicated account managers to strengthen relationships with key clients.
-6. Operational Improvements
+
+**6. Operational Improvements**
 - Use weekday heatmap insights to optimize inventory management and staffing schedules.
 - Audit low-performing drugs to eliminate products with low demand and poor margins.
 - Increase marketing investment for top-selling drugs to maximize sales volume.
