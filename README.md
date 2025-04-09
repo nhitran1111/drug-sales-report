@@ -38,8 +38,16 @@ The report is available for interaction at the link provided
 
 ## Results/Insight
 ### 1. Top/Bottom Analysis
-![](Overview.png)
 
+![Overview](Images/Overview.png)
+
+### 2. Customer Analysis
+
+![customer](Images/customer.png)
+
+### 3. Trend Analysis
+
+![trend](Images/trend.png)
 
 ## Recommendations
 1. Strengthen Sales in High-Performing Regions
